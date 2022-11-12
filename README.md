@@ -43,7 +43,7 @@ Worked on various student projects as part of my courses, the source code can be
 	- Finished C/C++ courses with great success
 
 - Osnovna škola pri gimnaziji Jovan Jovanović Zmaj (2016-2018)
-	- Class for students with special mathematics skills
+	- Class for students with special mathematical skills
 
 - Gimnazija Jovan Jovanović Zmaj (2018-2022)
 	- Class for students gifted in the field of Computer Science and Programming
