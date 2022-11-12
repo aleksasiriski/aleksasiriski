@@ -5,7 +5,7 @@ deploying them on Linux servers, as well as
 administrating and optimising said servers.
 My ideal job would be DevSecOps but I would also like
 to setup and manage hardware for servers and complex networks.
-I enjoy working with Docker and Podman containers as well as VMs.
+I enjoy working with Docker / Podman containers and VMs.
 
 ### Skills and proficiencies:
 - Pascal, C, C++, Java
