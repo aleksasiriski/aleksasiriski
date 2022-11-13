@@ -13,9 +13,9 @@ I enjoy working with Docker / Podman containers and VMs.
 - Shell, Python, Haskell, Prolog
 - Matlab, MySQL, MariaDB, MongoDB
 - Version control (Git), LaTeX
-- Docker, podman & LXC
-- KVM/Qemu & Proxmox
-- pfSense & opnSense
+- Docker, Podman, LXC
+- KVM, Qemu, Proxmox
+- pfSense, opnSense
 
 ### Languages:
 - English (C1)
