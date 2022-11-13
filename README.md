@@ -34,9 +34,9 @@ I enjoy working with Docker / Podman containers and VMs.
 ### Various student projects:
 Worked on various student projects as part of my courses, the source code can be found on my Github and Gitea profiles.
 
-- **tminaddit** - Open source reddit clone
-- **smerac** - Discord bot that allows users to choose their own role and fetch class calendar
-- **hcloud-rffmpeg** - Script that allows automatic creation of server nodes in Hetzner cloud depending on the workload
+- [**tminaddit**](https://github.com/aleksasiriski/tminaddit) - Open source reddit clone
+- [**smerac**](https://github.com/aleksasiriski/smerac) - Discord bot that allows users to choose their own role and fetch class calendar
+- [**hcloud-rffmpeg**](https://github.com/aleksasiriski/hcloud-rffmpeg) - Script that allows automatic creation of server nodes in Hetzner cloud depending on the workload
 
 ### Educational background:
 - Centar za mlade talente (2016-2018)
