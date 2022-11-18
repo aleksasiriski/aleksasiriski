@@ -27,8 +27,8 @@ I enjoy working with Docker / Podman containers and VMs.
 	- C/C++ algorithms
 - FON Hakaton za srednjoškolce (finalist)
 	- Worked in a team of 4
-	- Integration with NodeJS and MongoDB
-	- Developed backend in JQuerry and Axios
+	- Developed backend in NodeJS and MongoDB
+	- Integration with JQuerry and Axios
 	- Helped with frontend in Bootstrap
 
 ### Various student projects:
