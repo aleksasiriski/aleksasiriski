@@ -31,6 +31,11 @@ I enjoy working with Docker / Podman containers and VMs.
 	- Integration with JQuerry and Axios
 	- Helped with frontend in Bootstrap
 
+- Levi9 5 dana u oblacima - 5 days in the clouds (finalist)
+	- Worked in a team of 4
+	- Developed functionality in Java Spring Boot
+	- Integration with AWS SES
+
 ### Various student projects:
 Worked on various student projects as part of my courses, the source code can be found on my Github and Gitea profiles.
 
