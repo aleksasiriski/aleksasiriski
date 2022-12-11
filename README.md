@@ -9,9 +9,9 @@ I enjoy working with Docker / Podman containers and VMs.
 
 ### Skills and proficiencies:
 - Pascal, C, C++, Java
-- HTML, CSS, Javascript, NodeJS
+- HTML, CSS, Javascript, Typescript, Node
 - Shell, Python, Haskell, Prolog
-- Matlab, MySQL, MariaDB, MongoDB
+- MySQL, MariaDB, MongoDB
 - Version control (Git), LaTeX
 - Docker, Podman, LXC
 - KVM, Qemu, Proxmox
@@ -41,7 +41,7 @@ Worked on various student projects as part of my courses, the source code can be
 
 - [**tminaddit**](https://github.com/aleksasiriski/tminaddit) - Open source reddit clone
 - [**smerac**](https://github.com/aleksasiriski/smerac) - Discord bot that allows users to choose their own role and fetch class calendar
-- [**hcloud-rffmpeg**](https://github.com/aleksasiriski/hcloud-rffmpeg) - Script that allows automatic creation of server nodes in Hetzner cloud depending on the workload
+- [**hcloud-rffmpeg**](https://github.com/aleksasiriski/hcloud-rffmpeg) - Script that allows autoscaling of nodes in Hetzner cloud
 
 ### Educational background:
 - Centar za mlade talente (2016-2018)
