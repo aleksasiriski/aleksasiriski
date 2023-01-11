@@ -1,11 +1,5 @@
 # Aleksa Siriški
-I'm Aleksa, I aim to become a software engineer. I am
-interested in developing a variety of applications and
-deploying them on Linux servers, as well as
-administrating and optimising said servers.
-My ideal job would be DevSecOps but I would also like
-to setup and manage hardware for servers and complex networks.
-I enjoy working with Docker / Podman containers and VMs.
+I'm Aleksa, I aim to become a software engineer. I am interested in developing a variety of applications and deploying them on Linux servers, as well as administrating and optimising said servers. My ideal job would be DevSecOps but I would also like to setup and manage hardware for servers and complex networks. I enjoy working with Linux containers and VMs. Also I'm addicted to Kubernetes.
 
 ### Skills and proficiencies:
 #### Programming
