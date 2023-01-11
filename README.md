@@ -51,7 +51,7 @@ Worked on various student projects as part of my courses, the source code can be
 
 - [**tminaddit**](https://github.com/aleksasiriski/tminaddit) - Open source reddit clone in NodeJS
 - [**smerac**](https://github.com/aleksasiriski/smerac) - Discord bot in Python that allows users to choose their own role and fetch class calendar
-- [**hcloud-rffmpeg**](https://github.com/aleksasiriski/hcloud-rffmpeg) - Python script that allows autoscaling of [rffmpeg](https://github.com/joshuaboniface/rffmpeg) nodes in Hetzner Cloud
+- [**hcloud-rffmpeg**](https://github.com/aleksasiriski/hcloud-rffmpeg) - Python script that allows autoscaling of [rffmpeg](https://github.com/joshuaboniface/rffmpeg) nodes on Hetzner Cloud
 
 ### Educational background
 - Centar za mlade talente (2016-2018)
