@@ -12,16 +12,19 @@ I enjoy working with Docker / Podman containers and VMs.
 - Pascal, C, C++, Java
 - HTML, CSS, Javascript, Typescript, Node
 - Bash, Python, Haskell, Prolog
-- 
+
 #### Database
 - SQLite, MySQL, MariaDB, Postgresql, MongoDB
-- 
+
 #### Version control
 - Git on Github and self-hosted Gitea
-- 
+
 #### Containers
 - LXC, Docker, Podman
 - Kubernetes, K3S
+
+#### IaC
+- Terraform
 
 #### Cloud
 - Hetzner Cloud
@@ -29,7 +32,7 @@ I enjoy working with Docker / Podman containers and VMs.
 
 #### Virtualization
 - KVM/Qemu on Arch Linux and Proxmox
-- 
+
 #### FreeBSD
 - pfSense, opnSense
 
