@@ -30,10 +30,6 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 #### FreeBSD
 - pfSense, opnSense
 
-### Languages:
-- English (C1)
-- German (B1)
-
 ### Achievements
 - State programming tournament - Petlja (finalist)
 	- Solo
@@ -69,6 +65,11 @@ Worked on various student projects as part of my courses, the source code can be
 
 - Prirodno matematički fakultet (2022-2026)
 	- Department for Informational Technology
+
+
+### Languages
+- English (C1)
+- German (B1)
 
 ### Contact
 - [Email](mailto:sir@tmina.org)
