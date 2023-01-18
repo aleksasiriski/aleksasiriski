@@ -47,11 +47,20 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 	- Integration with AWS SES
 
 ### Various student projects
-Worked on various student projects as part of my courses, the source code can be found on my Github and Gitea profiles.
+Worked on various student projects as part of my courses:
 
 - [**tminaddit**](https://github.com/aleksasiriski/tminaddit) - Open source reddit clone in NodeJS
 - [**smerac**](https://github.com/aleksasiriski/smerac) - Discord bot in Python that allows users to choose their own role and fetch class calendar
 - [**hcloud-rffmpeg**](https://github.com/aleksasiriski/hcloud-rffmpeg) - Python script that allows autoscaling of [rffmpeg](https://github.com/joshuaboniface/rffmpeg) nodes on Hetzner Cloud
+
+Also some community projects I worked on:
+- [**rffmpeg**](https://github.com/joshuaboniface/rffmpeg)
+- [**terraform-hcloud-kube-hetzner**](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+- [****]()
+
+As well as some of my Docker images:
+- [**jellyfin-rffmpeg**](https://github.com/aleksasiriski/jellyfin-rffmpeg)
+- [**rffmpeg-worker**](https://github.com/aleksasiriski/rffmpeg-worker)
 
 ### Educational background
 - Centar za mlade talente (2016-2018)
