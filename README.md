@@ -1,4 +1,7 @@
 # Aleksa Siriški
+
+![Aleksa's stats](https://github-readme-stats.vercel.app/api?username=aleksasiriski&theme=github_dark&show_icons=true&custom_title=Aleksa's%20stats#gh-dark-mode-only)
+
 I'm Aleksa, I strive to become a software engineer. I am interested in developing a variety of applications and deploying them on Linux servers, as well as administrating and optimising said servers. My ideal job would be DevSecOps as well as a server and network architect. I enjoy working with Linux containers and VMs. Also I'm addicted to Kubernetes.
 
 ### Skills and proficiencies
