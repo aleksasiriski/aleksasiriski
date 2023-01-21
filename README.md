@@ -18,7 +18,7 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 
 #### Containers
 - LXC, Docker, Podman
-- Kubernetes, K3S
+- Kubernetes, K3s, Helm
 
 #### IaC
 - Terraform
