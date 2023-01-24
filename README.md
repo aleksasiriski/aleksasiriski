@@ -58,7 +58,7 @@ Worked on various student projects as part of my courses:
 
 Also some community projects I worked on:
 - [**rffmpeg**](https://github.com/joshuaboniface/rffmpeg)
-- [**terraform-hcloud-kube-hetzner**](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+- [**terraform-hcloud-kube-hetzner**](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner/pull/523)
 
 As well as some of my Docker images:
 - [**jellyfin-rffmpeg**](https://github.com/aleksasiriski/jellyfin-rffmpeg)
