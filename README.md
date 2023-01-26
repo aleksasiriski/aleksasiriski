@@ -55,6 +55,7 @@ Worked on various student projects as part of my courses:
 - [**tminaddit**](https://github.com/aleksasiriski/tminaddit) - Open source reddit clone in NodeJS
 - [**smerac**](https://github.com/aleksasiriski/smerac) - Discord bot in Python that allows users to choose their own role and fetch class calendar
 - [**hcloud-rffmpeg**](https://github.com/aleksasiriski/hcloud-rffmpeg) - Python script that allows autoscaling of [rffmpeg](https://github.com/joshuaboniface/rffmpeg) nodes on Hetzner Cloud
+- [**analgral**](https://github.com/aleksasiriski/analgral) - Static web app that calculates Riemann's sum and plots the resulting graph
 
 Also some community projects I worked on:
 - [**rffmpeg**](https://github.com/joshuaboniface/rffmpeg)
