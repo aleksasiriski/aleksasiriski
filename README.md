@@ -83,8 +83,8 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 
 
 ### Languages
-* English (C1)
-* German (B1)
+* English (Cambridge certificate C1)
+* German (Novice classes B1)
 
 ### Contact
 - [Email](mailto:sir@tmina.org)
