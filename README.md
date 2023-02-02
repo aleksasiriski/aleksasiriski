@@ -7,33 +7,33 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 ### Skills and proficiencies
 
 #### Programming
-- Pascal, C, C++, Java
-- Python, Go
-- HTML, CSS, Javascript, Typescript, Node
-- Bash, Haskell, Prolog
+* Pascal, C, C++, Java
+* Python, Go
+* HTML, CSS, Javascript, Typescript, Node
+* Bash, Haskell, Prolog
 
 #### Database
-- SQLite, MySQL, MariaDB, Postgresql, MongoDB
+* SQLite, MySQL, MariaDB, Postgresql, MongoDB
 
 #### Version control
-- Git on Github and self-hosted Gitea
+* Git on Github and self-hosted Gitea
 
 #### Containers
-- LXC, Docker, Podman
-- Kubernetes, K3s, Helm
+* LXC, Docker, Podman
+* Kubernetes, K3s, Helm
 
 #### IaC
-- Terraform
+* Terraform
 
 #### Cloud
-- Hetzner Cloud
-- Digital Ocean
+* Hetzner Cloud
+* Digital Ocean
 
 #### Virtualization
-- KVM/Qemu on Arch Linux and Proxmox
+* KVM/Qemu on Arch Linux and Proxmox
 
 #### FreeBSD
-- pfSense, opnSense
+* pfSense, opnSense
 
 ### Achievements
 * State programming tournament - Petlja (finalist)
