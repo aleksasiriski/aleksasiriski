@@ -8,8 +8,9 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 
 #### Programming
 - Pascal, C, C++, Java
+- Python, Go
 - HTML, CSS, Javascript, Typescript, Node
-- Bash, Python, Haskell, Prolog
+- Bash, Haskell, Prolog
 
 #### Database
 - SQLite, MySQL, MariaDB, Postgresql, MongoDB
