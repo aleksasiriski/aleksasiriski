@@ -64,9 +64,12 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 
 * [**rffmpeg**](https://github.com/joshuaboniface/rffmpeg)
 * [**terraform-hcloud-kube-hetzner**](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
+* [**autoscan**](https://github.com/Cloudbox/autoscan)
+* [**jfa-go**](https://github.com/hrfee/jfa-go)
 
 #### Self-made Docker images
 * [**jellyfin-rffmpeg**](https://github.com/aleksasiriski/jellyfin-rffmpeg)
+* [**jellyfin-rffmpeg-intro-skipper**](https://github.com/aleksasiriski/jellyfin-rffmpeg-intro-skipper)
 * [**rffmpeg-worker**](https://github.com/aleksasiriski/rffmpeg-worker)
 
 ### Educational background
