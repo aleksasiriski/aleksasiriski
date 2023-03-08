@@ -56,7 +56,7 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 #### Student projects as part of my courses
 
 * [**smerac**](https://github.com/aleksasiriski/smerac) - Discord bot in Python that allows users to choose their own role and fetch class calendar
-* [**rffmpeg-go**](https://github.com/aleksasiriski/rffmpeg-go) - Go script that allows transparent load balancing of `ffmpeg` and `ffprobe` commands over SSH with integrated cleanup
+* [**rffmpeg-go**](https://github.com/aleksasiriski/rffmpeg-go) - Go script that allows transparent load balancing of `ffmpeg` and `ffprobe` commands over SSH
 * [**rffmpeg-autoscaler**](https://github.com/aleksasiriski/rffmpeg-autoscaler) - Go script that allows autoscaling of [rffmpeg-go](https://github.com/aleksasiriski/rffmpeg-go) workers on Hetzner Cloud
 * [**tminaddit**](https://github.com/aleksasiriski/tminaddit) - Open source reddit clone in NodeJS
 * [**analgral**](https://github.com/aleksasiriski/analgral) - Static web app that calculates Riemann's sum and plots the resulting graph
