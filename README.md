@@ -7,13 +7,13 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 ### Skills and proficiencies
 
 #### Programming
-* Pascal, C, C++, Java
+* C, C++, Java
 * Python, Go
-* HTML, CSS, Javascript, Typescript, Node
-* Bash, Haskell, Prolog
+* HTML, CSS, Javascript, Typescript, NodeJS
+* Bash, Haskell
 
 #### Database
-* SQLite, MySQL, MariaDB, Postgresql, MongoDB
+* SQLite, Postgresql, MongoDB
 
 #### Version control
 * Git on Github and self-hosted Gitea
@@ -55,19 +55,20 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 
 #### Student projects as part of my courses
 
-* [**tminaddit**](https://github.com/aleksasiriski/tminaddit) - Open source reddit clone in NodeJS
 * [**smerac**](https://github.com/aleksasiriski/smerac) - Discord bot in Python that allows users to choose their own role and fetch class calendar
-* [**rffmpeg-autoscaler**](https://github.com/aleksasiriski/rffmpeg-autoscaler) - Go script that allows autoscaling of [rffmpeg](https://github.com/joshuaboniface/rffmpeg) workers on Hetzner Cloud
+* [**rffmpeg-go**](https://github.com/aleksasiriski/rffmpeg-go) - Go script that allows transparent load balancing of `ffmpeg` and `ffprobe` commands over SSH with integrated cleanup
+* [**rffmpeg-autoscaler**](https://github.com/aleksasiriski/rffmpeg-autoscaler) - Go script that allows autoscaling of [rffmpeg-go](https://github.com/aleksasiriski/rffmpeg-go) workers on Hetzner Cloud
+* [**tminaddit**](https://github.com/aleksasiriski/tminaddit) - Open source reddit clone in NodeJS
 * [**analgral**](https://github.com/aleksasiriski/analgral) - Static web app that calculates Riemann's sum and plots the resulting graph
 
 #### Contributed community projects
 
 * [**rffmpeg**](https://github.com/joshuaboniface/rffmpeg)
 * [**terraform-hcloud-kube-hetzner**](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-* [**autoscan**](https://github.com/Cloudbox/autoscan)
+* [**autoscan**](https://github.com/aleksasiriski/autoscan)
 * [**jfa-go**](https://github.com/hrfee/jfa-go)
 
-#### Self-made Docker images
+#### Docker images
 * [**jellyfin-rffmpeg**](https://github.com/aleksasiriski/jellyfin-rffmpeg)
 * [**jellyfin-rffmpeg-intro-skipper**](https://github.com/aleksasiriski/jellyfin-rffmpeg-intro-skipper)
 * [**rffmpeg-worker**](https://github.com/aleksasiriski/rffmpeg-worker)
@@ -93,4 +94,6 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 ### Contact
 - [Email](mailto:sir@tmina.org)
 - [Matrix]()
+- [Mastodon]()
+- [Lemmy]()
 - [Discord](https://discordapp.com/users/906930028078575626)
