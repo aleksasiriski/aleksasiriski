@@ -56,7 +56,6 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 ### Various projects
 
 #### Student projects as part of my courses
-
 * [**smerac-go**](https://github.com/aleksasiriski/smerac-go) - Discord bot written in Go that allows users to choose their own role and fetch class calendar
 * [**rffmpeg-go**](https://github.com/aleksasiriski/rffmpeg-go) - Go script that allows transparent load balancing of `ffmpeg` and `ffprobe` commands over SSH
 * [**rffmpeg-autoscaler**](https://github.com/aleksasiriski/rffmpeg-autoscaler) - Go script that allows autoscaling of [rffmpeg-go](https://github.com/aleksasiriski/rffmpeg-go) workers on Hetzner Cloud
@@ -64,19 +63,16 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 * [**analgral**](https://github.com/aleksasiriski/analgral) - Static web app that calculates Riemann's sum and plots the resulting graph
 
 #### Contributed community projects
-
 * [**rffmpeg**](https://github.com/joshuaboniface/rffmpeg)
 * [**terraform-hcloud-kube-hetzner**](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
 * [**autoscan**](https://github.com/aleksasiriski/autoscan)
 
 #### Docker images
-
 * [**jellyfin-rffmpeg**](https://github.com/aleksasiriski/jellyfin-rffmpeg)
 * [**jellyfin-rffmpeg-intro-skipper**](https://github.com/aleksasiriski/jellyfin-rffmpeg-intro-skipper)
 * [**rffmpeg-worker**](https://github.com/aleksasiriski/rffmpeg-worker)
 
 ### Educational background
-
 * Centar za mlade talente (2016-2018)
 	- Finished C/C++ courses with great success
 
