@@ -7,13 +7,14 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 ### Skills and proficiencies
 
 #### Programming
-* C, C++, Java
+* C/C++, Java
 * Python, Go
-* HTML, CSS, Javascript, Typescript, NodeJS
+* NodeJS, Typescript
 * Bash, Haskell
 
 #### Database
-* SQLite, Postgresql, MongoDB
+* SQLite, Postgresql
+* MongoDB
 
 #### Version control
 * Git on Github and self-hosted Gitea
@@ -32,8 +33,9 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 #### Virtualization
 * KVM/Qemu on Arch Linux and Proxmox
 
-#### FreeBSD
+#### Routers
 * pfSense, opnSense
+* OpenWRT, ddwrt
 
 ### Achievements
 * State programming tournament - Petlja (finalist)
@@ -55,7 +57,7 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 
 #### Student projects as part of my courses
 
-* [**smerac**](https://github.com/aleksasiriski/smerac) - Discord bot in Python that allows users to choose their own role and fetch class calendar
+* [**smerac-go**](https://github.com/aleksasiriski/smerac-go) - Discord bot written in Go that allows users to choose their own role and fetch class calendar
 * [**rffmpeg-go**](https://github.com/aleksasiriski/rffmpeg-go) - Go script that allows transparent load balancing of `ffmpeg` and `ffprobe` commands over SSH
 * [**rffmpeg-autoscaler**](https://github.com/aleksasiriski/rffmpeg-autoscaler) - Go script that allows autoscaling of [rffmpeg-go](https://github.com/aleksasiriski/rffmpeg-go) workers on Hetzner Cloud
 * [**tminaddit**](https://github.com/aleksasiriski/tminaddit) - Open source reddit clone in NodeJS
@@ -66,14 +68,15 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 * [**rffmpeg**](https://github.com/joshuaboniface/rffmpeg)
 * [**terraform-hcloud-kube-hetzner**](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
 * [**autoscan**](https://github.com/aleksasiriski/autoscan)
-* [**jfa-go**](https://github.com/hrfee/jfa-go)
 
 #### Docker images
+
 * [**jellyfin-rffmpeg**](https://github.com/aleksasiriski/jellyfin-rffmpeg)
 * [**jellyfin-rffmpeg-intro-skipper**](https://github.com/aleksasiriski/jellyfin-rffmpeg-intro-skipper)
 * [**rffmpeg-worker**](https://github.com/aleksasiriski/rffmpeg-worker)
 
 ### Educational background
+
 * Centar za mlade talente (2016-2018)
 	- Finished C/C++ courses with great success
 
