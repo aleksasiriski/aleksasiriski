@@ -35,7 +35,7 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 
 #### Routers
 * pfSense, opnSense
-* OpenWRT, ddwrt
+* ddwrt, openWRT
 
 ### Achievements
 * State programming tournament - Petlja (finalist)
@@ -94,5 +94,4 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 - [Email](mailto:sir@tmina.org)
 - [Matrix]()
 - [Mastodon]()
-- [Lemmy]()
 - [Discord](https://discordapp.com/users/906930028078575626)
