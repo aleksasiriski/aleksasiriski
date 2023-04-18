@@ -92,6 +92,3 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 
 ### Contact
 - [Email](mailto:sir@tmina.org)
-- [Matrix]()
-- [Mastodon]()
-- [Discord](https://discordapp.com/users/906930028078575626)
