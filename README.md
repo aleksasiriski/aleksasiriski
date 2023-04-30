@@ -68,8 +68,8 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 * [**autoscan**](https://github.com/aleksasiriski/autoscan)
 
 #### Docker images
-* [**jellyfin-rffmpeg**](https://github.com/aleksasiriski/jellyfin-rffmpeg)
-* [**jellyfin-rffmpeg-intro-skipper**](https://github.com/aleksasiriski/jellyfin-rffmpeg-intro-skipper)
+* [**jellyfin-rffmpeg**](https://ghcr.io/aleksasiriski/jellyfin-rffmpeg)
+* [**jellyfin-rffmpeg-intro-skipper**](https://ghcr.io/aleksasiriski/jellyfin-rffmpeg-intro-skipper)
 * [**rffmpeg-worker**](https://github.com/aleksasiriski/rffmpeg-worker)
 
 ### Educational background
