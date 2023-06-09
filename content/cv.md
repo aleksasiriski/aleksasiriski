@@ -9,6 +9,7 @@ I'm Aleksa, I strive to become a software engineer. I am interested in developin
 * C/C++, Java
 * NodeJS, Typescript
 * Bash, Haskell
+* Hugo
 
 ### Database
 * SQLite, Postgresql
