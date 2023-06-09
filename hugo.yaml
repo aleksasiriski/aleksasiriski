@@ -44,8 +44,8 @@ params:
     title: aleksasiriski
     subtitle: "Junior DevOps Engineer"
     imageUrl: "/profile.png"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 150
+    imageHeight: 150
     imageTitle: aleksasiriski
     buttons:
       - name: CV
