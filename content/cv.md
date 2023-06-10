@@ -72,9 +72,9 @@ My name is Aleksa and I strive to become a software engineer. I am interested in
 * [**tailbliss**](https://github.com/nusserstudios/tailbliss)
 
 ### Docker images
-* [**jellyfin-rffmpeg**](https://ghcr.io/aleksasiriski/jellyfin-rffmpeg)
-* [**jellyfin-rffmpeg-intro-skipper**](https://ghcr.io/aleksasiriski/jellyfin-rffmpeg-intro-skipper)
-* [**rffmpeg-worker**](https://github.com/aleksasiriski/rffmpeg-worker)
+* [**jellyfin-rffmpeg**](https://github.com/aleksasiriski/rffmpeg-go/pkgs/container/jellyfin-rffmpeg)
+* [**jellyfin-rffmpeg-intro-skipper**](https://github.com/aleksasiriski/rffmpeg-go/pkgs/container/jellyfin-rffmpeg-intro-skipper)
+* [**rffmpeg-worker**](https://github.com/aleksasiriski/rffmpeg-worker/pkgs/container/rffmpeg-worker)
 
 ## Educational background
 * Centar za mlade talente (2016-2018)
