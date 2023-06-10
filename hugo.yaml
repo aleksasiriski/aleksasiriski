@@ -34,6 +34,9 @@ params:
   showtoc: false
   tocopen: false
 
+  assets:
+    disableFingerprinting: true
+
   label:
     text: "Home"
     icon: /apple-touch-icon.png
