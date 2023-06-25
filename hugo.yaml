@@ -1,5 +1,5 @@
-baseURL: ''
-title: aleksasiriski
+baseURL: "https://aleksasiriski.dev"
+title: "Aleksa Siriški"
 paginate: 5
 
 enableRobotsTXT: true
@@ -12,9 +12,9 @@ minify:
   minifyOutput: true
 
 params:
-  title: aleksasiriski
+  title: "Aleksa Siriški"
   keywords: [Blog, Portfolio]
-  author: aleksasiriski
+  author: "Aleksa Siriški"
   DateFormat: "January 2, 2006"
   defaultTheme: auto
 
@@ -44,12 +44,12 @@ params:
 
   profileMode:
     enabled: true
-    title: aleksasiriski
+    title: "Aleksa Siriški"
     subtitle: "Junior DevOps Engineer"
     imageUrl: "/profile.png"
     imageWidth: 150
     imageHeight: 150
-    imageTitle: aleksasiriski
+    imageTitle: "Aleksa Siriški"
     buttons:
       - name: CV
         url: cv
