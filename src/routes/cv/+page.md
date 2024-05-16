@@ -118,14 +118,14 @@ My name is Aleksa and I strive to become a software engineer. I am interested in
 
 - [tminaddit](https://github.com/aleksasiriski/tminaddit) - Open source reddit clone in NodeJS (Express, MongoDB)
 - [smerac](https://github.com/aleksasiriski/smerac) - Discord bot written in Python that allows users to choose their own role and fetch class calendar
-- [smerac-go](https://github.com/aleksasiriski/smerac-go) - Rewrite of above project in Go
+- [smerac-go](https://github.com/aleksasiriski/smerac-go) - Rewrite of the above project in Go
 - [analgral](https://github.com/aleksasiriski/analgral) - Static web app that calculates Riemann's sum and plots the resulting graph
 
 ### Community projects
 
 - [rffmpeg](https://github.com/joshuaboniface/rffmpeg)
 - [terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-- [autoscan](https://github.com/aleksasiriski/autoscan)
+- [autoscan](https://github.com/tminaorg/autoscan)
 - [tailbliss](https://github.com/nusserstudios/tailbliss)
 
 ### Docker images
