@@ -12,11 +12,12 @@
 		<img class="my-1 size-40 rounded-full shadow-2xl dark:shadow-none" src={Logo} alt="Avatar" />
 		<h1 class="my-1 text-xl sm:text-3xl font-medium">Junior DevOps Engineer</h1>
 		<p class:animate-red={turtle} class="my-1 text-md sm:text-xl font-light">
-			Website in the works.. <button onclick={handleTurtle}>🐢</button>
+			Website in the works.. <button onclick={handleTurtle} class="hover:animate-shake">🐢</button>
 		</p>
 		<a
 			href="/cv"
-			class="my-1 text-md sm:text-xl font-bold hover:text-lime-900 hover:dark:text-lime-700">CV</a
-		>
+			class="my-1 underline text-md sm:text-xl font-bold hover:text-lime-900 hover:dark:text-lime-700">
+			CV
+		</a>
 	</div>
 </div>
