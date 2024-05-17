@@ -46,6 +46,15 @@ My name is Aleksa and I strive to become a software engineer. I am interested in
 - Docker / Podman
 - Kubernetes (K3s)
 
+### Monitoring
+
+- SigNoz
+  - Logs
+  - Metrics
+  - Traces
+  - Dashboards
+  - Alerts
+
 ### Virtualization
 
 - KVM/Qemu
@@ -97,7 +106,7 @@ My name is Aleksa and I strive to become a software engineer. I am interested in
 
   - Class for students gifted in the field of Computer Science and Programming
 
-- University of Novi Sad (2022-current)
+- University of Novi Sad, Faculty of Sciences (2022-current)
   - Department for Mathematics and Informatics
     - Informational Technology
 
