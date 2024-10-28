@@ -4,16 +4,17 @@ My name is Aleksa and I strive to become a software engineer. I am interested in
 
 ## Skills and proficiencies
 
-### Scripting
-
-- Bash
-- Python
-
 ### Programming
 
 - Go
-- JS/TS (Node, SvelteKit)
+- JavaScript/TypeScript (Node, SvelteKit)
+- Python
+- Bash
 - C, C++, Java
+
+### IaC
+
+- Terraform
 
 ### Databases
 
@@ -21,20 +22,17 @@ My name is Aleksa and I strive to become a software engineer. I am interested in
 - PostgreSQL
 - MongoDB
 - Redis (KeyDB)
-- DynamoDB
+- AWS DynamoDB
 
 ### Version control
 
 - Github
 - Self-hosted Gitea
 
-### IaC
-
-- Terraform
-
 ### CI/CD
 
 - Github Actions
+- ArgoCD
 
 ### Cloud
 
@@ -117,11 +115,15 @@ My name is Aleksa and I strive to become a software engineer. I am interested in
 
 ## Projects
 
-### Personal projects
+### Personal & community projects
 
-- [ffmpegof](https://github.com/tminaorg/ffmpegof) - Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH
-- [rffmpeg-autoscaler](https://github.com/aleksasiriski/rffmpeg-autoscaler) - Go script that allows autoscaling of rffmpeg-workers on Hetzner Cloud
 - [hearchco](https://github.com/hearchco) - Distributed and fast metasearch engine that respects your privacy
+- [terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and maintenance-free Kubernetes on Hetzner Cloud in one command
+- [boringproxy](https://github.com/kube-hetzner/boringproxy) - A boring HTTP proxy written in pure Go stdlib
+- [autoscan](https://github.com/aleksasiriski/autoscan) - Go app that scans the disk on events from Sonarr/Radarr and pushes the scans to Jellyfin
+- [ffmpegof](https://github.com/aleksasiriski/ffmpegof) - Go script that allows transparent load balancing of ffmpeg and ffprobe commands over SSH
+- [rffmpeg-autoscaler](https://github.com/aleksasiriski/rffmpeg-autoscaler) - Go script that allows autoscaling of rffmpeg-workers on Hetzner Cloud
+- [tailbliss](https://github.com/nusserstudios/tailbliss) - Sleek Hugo theme
 
 ### Student projects
 
@@ -129,15 +131,3 @@ My name is Aleksa and I strive to become a software engineer. I am interested in
 - [smerac](https://github.com/aleksasiriski/smerac) - Discord bot written in Python that allows users to choose their own role and fetch class calendar
 - [smerac-go](https://github.com/aleksasiriski/smerac-go) - Rewrite of the above project in Go
 - [analgral](https://github.com/aleksasiriski/analgral) - Static web app that calculates Riemann's sum and plots the resulting graph
-
-### Community projects
-
-- [rffmpeg](https://github.com/joshuaboniface/rffmpeg)
-- [terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner)
-- [autoscan](https://github.com/tminaorg/autoscan)
-- [tailbliss](https://github.com/nusserstudios/tailbliss)
-
-### Docker images
-
-- [ffmpegof-jellyfin](https://github.com/tminaorg/ffmpegof/pkgs/container/ffmpegof-jellyfin) - over 10k downloads
-- [rffmpeg-worker](https://github.com/aleksasiriski/rffmpeg-worker/pkgs/container/rffmpeg-worker) - over 4k downloads
