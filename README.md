@@ -6,4 +6,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aleksasiriski&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksasiriski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm mainly a DevOps looking to help FOSS and my friends with self-hosting services. Primary language is Go while also being in a love-hate relationship with JS. Currently investigating decentralized app model, not crypto.
+Self-taught DevOps and FOSS enthusiast with a primary focus on distributed systems using Go and Kubernetes. Founder of the fastest, privacy-friendly metasearch engine, Hearchco, and core contributor to the most popular open-source project for setting up K8s on Hetzner Cloud (kube-hetzner). I occasionally work on frontend development (SvelteKit) when necessary.
